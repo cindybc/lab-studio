@@ -77,14 +77,14 @@ h1, h4{
 /*SECCION 3*/
 
 .third-section,.five-section{
-	background-color: whitesmoke;
+	background-color: #eae8e8;
 	padding: 100px 0;
 }
 
 /*Seccion 4*/
 
 .img-thumbnail{
-	background-color: whitesmoke;
+	background-color: #eae8e8;
 }
 
 .marCircle{
@@ -95,4 +95,9 @@ h1, h4{
 
 #team{
 	background-color: #fff;
+}
+/* Seccion Marcas*/
+
+.marcas{
+	padding: 35px 0;
 }
