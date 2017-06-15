@@ -71,12 +71,12 @@ h1, h4{
     font-style: italic;
     margin-bottom: 50px;
 }
-.fa-circle{
+.amarillo{
     color: #F6C90E;
 }
 /*SECCION 3*/
 
-.third-section{
+.third-section,.five-section{
 	background-color: whitesmoke;
 	padding: 100px 0;
 }
@@ -89,4 +89,10 @@ h1, h4{
 
 .marCircle{
 	margin-top: 50px;
+}
+
+/*Seccion 5*/
+
+#team{
+	background-color: #fff;
 }
