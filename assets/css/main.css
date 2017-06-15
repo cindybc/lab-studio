@@ -96,8 +96,28 @@ h1, h4{
 #team{
 	background-color: #fff;
 }
-/* Seccion Marcas*/
+/*  Marcas*/
 
 .marcas{
 	padding: 35px 0;
+}
+
+/*Seccion 6*/
+.six-section{
+	background-image: url(../img/map-image.png);
+	background-color: rgb(36, 36, 37);
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0;
+}
+.six-section h1{
+	color: #fff;
+}
+input{
+	height: 60px;
+}
+input, textarea{
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
 }
