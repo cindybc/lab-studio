@@ -64,7 +64,7 @@ h1, h4{
    margin: 20px;
 }
 /*SECCION 2*/
-.second-section, .third-section{
+.second-section, .third-section, .four-section{
 	margin: 100px 0;
 }
 .p1{
@@ -79,4 +79,14 @@ h1, h4{
 .third-section{
 	background-color: whitesmoke;
 	padding: 100px 0;
+}
+
+/*Seccion 4*/
+
+.img-thumbnail{
+	background-color: whitesmoke;
+}
+
+.marCircle{
+	margin-top: 50px;
 }
