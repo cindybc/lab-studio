@@ -96,6 +96,9 @@ h1, h4{
 #team{
 	background-color: #fff;
 }
+.teamP{
+	margin-top: 40px;
+}
 /*  Marcas*/
 
 .marcas{
@@ -120,4 +123,9 @@ input, textarea{
 	width: 100%;
 	padding: 10px;
 	border-radius: 5px;
+}
+
+/*Footer*/
+footer{
+	padding: 20px;
 }
